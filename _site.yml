@@ -1,0 +1,12 @@
+name: "tuQmano_3_estrellas"
+title: "TuQmano 3 Estrellas"
+description: |
+  Soy campeón del mundo 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Inicio"
+      href: index.html
+    - text: "Sobre el TuQmano"
+      href: about.html
+output: distill::distill_article

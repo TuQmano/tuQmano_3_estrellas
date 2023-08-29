@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-29T20:45:42-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "TuQmano 3 Estrellas",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-29T20:45:45-03:00"
+    }
+  ],
+  "collections": []
+}
